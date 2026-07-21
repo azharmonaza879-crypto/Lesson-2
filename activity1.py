@@ -1,0 +1,5 @@
+print("hello whats up")
+print(2442)
+print("hello",2000)
+print("hello python \n")
+print("anything")
